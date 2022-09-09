@@ -1,0 +1,7 @@
+table,td,th{border:5px solid black;
+border-collapse: collapse;}
+td{text-align:center}
+table{height:50%;
+margin:30px}
+tr:nth-of-type(even){background-color:  dodgerblue;}
+td{height: 30px;}
